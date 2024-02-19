@@ -1,0 +1,49 @@
+body {
+  background-color: black;
+}
+a:visited {
+  color: white;
+}
+nav {
+  position: relative;
+  left: 40%;
+  color: white;
+  display: flex;
+  width: 360px;
+  border-radius: 25px;
+  height: 50px;
+}
+nav h1,
+h3 {
+  margin-left: 20px;
+  position: relative;
+}
+nav h1 {
+  bottom: 5px;
+}
+#f1-teams {
+  border-radius: 12px;
+  border: 1px solid white;
+  margin-top: 100px;
+  height: fit-content;
+  width: 601px;
+}
+#f1-team-img {
+  padding: 10px;
+}
+#f1-team-img img {
+  border-radius: 8px;
+  margin-right: 3px;
+}
+#redbull-logo {
+  background-color: blue;
+}
+#merc-logo {
+  background-color: turquoise;
+}
+#ferrari-logo {
+  background-color: red;
+}
+#alpine-logo {
+  background-color: #036bb3;
+}
